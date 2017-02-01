@@ -1,0 +1,9 @@
+Orientation Sensor Raw Data Test
+
+Current Temperature: 26 C
+
+Calibration status values: 0=uncalibrated, 3=fully calibrated
+time	eul_z	eul_y	eul_x	linA_x	linA_y	linA_z	cal_sys	cal_gyr	cal_acc	cal_mag
+1161	0.00	0.00	0.00	0.00	0.00	0.00	
+135	0.00	0.00	0.00	0.00	0.00	0.00	
+107	0.00	0.00	0.00	0.00	0.00	0.00	
